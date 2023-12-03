@@ -146,7 +146,7 @@ export const ScrollableLane = styled.div`
 
 export const Title = styled.span`
   font-weight: normal;
-  font-size: 15px;
+  font-size: 13px;
   line-height: 18px;
   cursor: ${props => (props.draggable ? 'grab' : `auto`)};
   width: 70%;
