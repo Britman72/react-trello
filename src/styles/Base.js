@@ -146,7 +146,7 @@ export const ScrollableLane = styled.div`
 
 export const Title = styled.span`
   font-weight: bold;
-  font-size: 13px;
+  font-size: 14px;
   line-height: 18px;
   cursor: ${props => (props.draggable ? 'grab' : `auto`)};
   width: 70%;
@@ -184,7 +184,7 @@ export const CardHeader = styled(Header)`
 `
 
 export const CardTitle = styled(Title)`
-  font-size: 14px;
+  font-size: 12px;
 `
 
 export const CardRightContent = styled(RightContent)`
