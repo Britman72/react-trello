@@ -165,7 +165,7 @@ export const CardWrapper = styled.article`
   position: relative;
   padding: 10px;
   cursor: pointer;
-  max-width: 300px;
+  max-width: 340px;
   margin-bottom: 7px;
   min-width: 230px;
  
@@ -185,7 +185,7 @@ export const CardHeader = styled(Header)`
 `
 
 export const CardTitle = styled(Title)`
-  font-size: 10px;
+  font-size: 8px;
 `
 
 export const CardRightContent = styled(RightContent)`
