@@ -149,7 +149,7 @@ export const Title = styled.span`
   font-size: 14px;
   line-height: 18px;
   cursor: ${props => (props.draggable ? 'grab' : `auto`)};
-  width: 70%;
+  width: 100%;
 `
 
 export const RightContent = styled.span`
