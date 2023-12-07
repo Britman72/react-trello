@@ -185,7 +185,7 @@ export const CardHeader = styled(Header)`
 `
 
 export const CardTitle = styled(Title)`
-  font-size: 10px;
+  font-size: 12px;
 `
 
 export const CardRightContent = styled(RightContent)`
