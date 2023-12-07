@@ -165,10 +165,10 @@ export const CardWrapper = styled.article`
   position: relative;
   padding: 10px;
   cursor: pointer;
-  max-width: 260px;
+  max-width: 250px;
   margin-bottom: 7px;
   min-width: 230px;
-  font-size: 13px;
+ 
 `
 
 export const MovableCardWrapper = styled(CardWrapper)`
