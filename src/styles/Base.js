@@ -165,7 +165,7 @@ export const CardWrapper = styled.article`
   position: relative;
   padding: 10px;
   cursor: pointer;
-  max-width: 290px;
+  max-width: 340px;
   margin-bottom: 7px;
   min-width: 230px;
 `
