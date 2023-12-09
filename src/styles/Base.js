@@ -87,7 +87,7 @@ export const BoardWrapper = styled.div`
   display: flex;
   flex-direction: row;
   align-items: flex-start;
-  height: 100vh;
+  height: 80vh;
 `
 
 export const Header = styled.header`
@@ -138,7 +138,7 @@ export const ScrollableLane = styled.div`
   min-width: 250px;
   overflow-x: hidden;
   align-self: center;
-  max-height: 90vh;
+  max-height: 80vh;
   margin-top: 10px;
   flex-direction: column;
   justify-content: space-between;
@@ -159,14 +159,14 @@ export const RightContent = styled.span`
   font-size: 13px;
 `
 export const CardWrapper = styled.article`
-  border-radius: 3px;
+  border-radius: 5px;
   border-bottom: 1px solid #ccc;
   background-color: #fff;
   position: relative;
   padding: 10px;
   cursor: pointer;
-  max-width: 340px;
-  margin-bottom: 7px;
+  max-width: 320px;
+  margin-bottom: 10px;
   min-width: 230px;
  
 `
